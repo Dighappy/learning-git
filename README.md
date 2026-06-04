@@ -11,3 +11,4 @@ Day 1
 - git init
 - git add
 - git commit
+- git diff
