@@ -13,3 +13,6 @@ Day 1
 - git commit
 - git diff
 - git push
+
+Day 2
+- 复习昨天学习的内容
